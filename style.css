@@ -1,0 +1,14 @@
+button {
+  box-shadow: 2px 2px 4px silver, -1px -1px 4px silver;
+  padding: 1em;
+  border-radius: 10px;
+}
+.container {
+  position: relative;
+  top: 44%;
+  color: #d1fdff;
+  text-shadow: 4px 5px black;
+}
+#container {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
